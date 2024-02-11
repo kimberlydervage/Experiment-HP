@@ -17,6 +17,10 @@ body {
     background-color: #01081b;
 }
 
+.logo img {
+    width: 80px;
+}
+
 main {
     padding: 20px;
     margin: 0 auto 64px;
