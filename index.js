@@ -1,93 +1,93 @@
 const perguntas = [
     {
-        pergunta: "Qual é a função do operador '===' em JavaScript?",
+        pergunta: "Quem é o diretor da Escola de Magia e Bruxaria de Hogwarts nos primeiros seis livros da série Harry Potter?",
         respostas: [
-            "Compara valores e tipos de dados sem coerção",
-            "Compara valores apenas, sem considerar tipos de dados",
-            "Compara tipos de dados apenas"
+            "Severo Snape",
+            "Alvo Dumbledore",
+            "Minerva McGonagall"
+        ],
+        correta: 1
+    },
+    {
+        pergunta: "Qual é a casa de Hogwarts à qual Harry Potter pertence?",
+        respostas: [
+            "Grifinória",
+            "Sonserina",
+            "Corvinal"
         ],
         correta: 0
     },
     {
-        pergunta: "Como declaramos uma variável em JavaScript?",
+        pergunta: "Qual é o nome do elfo doméstico que serve à família Malfoy?",
         respostas: [
-            "var myVar;",
-            "variable myVar;",
-            "let myVar ="
+            "Dobby",
+            "Winky",
+            "Kreacher"
+        ],
+        correta: 2
+    },
+    {
+        pergunta: "Quem é o melhor amigo de Harry Potter?",
+        respostas: [
+            "Ron Weasley",
+            "Hermione Granger",
+            "Neville Longbottom"
         ],
         correta: 0
     },
     {
-        pergunta: "Qual é a diferença entre 'let' e 'const' na declaração de variáveis?",
+        pergunta: "Qual é o feitiço usado para invocar a Varinha das Varinhas?",
         respostas: [
-            "Ambos são usados para variáveis mutáveis, mas 'const' é para constantes",
-            "'let' é usado para variáveis globais, enquanto 'const' é para variáveis locais",
-            "'let' é para variáveis mutáveis, enquanto 'const' é para variáveis imutáveis"
-        ],
-        correta: 2
-    },
-    {
-        pergunta: "O que é o DOM em JavaScript?",
-        respostas: [
-            "Data Object Model",
-            "Document Object Model",
-            "Dynamic Object Model"
+            "Expelliarmus",
+            "Accio",
+            "Expecto Patronum"
         ],
         correta: 1
     },
     {
-        pergunta: "Qual é a finalidade do método 'addEventListener' em JavaScript?",
+        pergunta: "Quem é o inimigo principal na série Harry Potter?",
         respostas: [
-            "Modificar elementos HTML",
-            "Adicionar estilos CSS dinamicamente",
-            "Associar eventos a elementos HTML"
-        ],
-        correta: 2
-    },
-    {
-        pergunta: "Como se realiza uma iteração por meio de um array em JavaScript?",
-        respostas: [
-            "for-in loop",
-            "while loop",
-            "for loop"
-        ],
-        correta: 2
-    },
-    {
-        pergunta: "O que é uma função de callback em JavaScript?",
-        respostas: [
-            "Uma função que retorna um valor",
-            "Uma função passada como argumento para outra função",
-            "Uma função que não aceita parâmetros"
-        ],
-        correta: 1
-    },
-    {
-        pergunta: "O que é o JSON em JavaScript?",
-        respostas: [
-            "Java Script Object Notation",
-            "JavaScript Open Notation",
-            "JavaScript Object Navigation"
+            "Voldemort",
+            "Bellatrix Lestrange",
+            "Draco Malfoy"
         ],
         correta: 0
     },
     {
-        pergunta: "Qual é a diferença entre 'null' e 'undefined' em JavaScript?",
+        pergunta: "O que são os Comensais da Morte?",
         respostas: [
-            "'null' representa a ausência intencional de qualquer valor de objeto",
-            "'undefined' representa uma variável que foi declarada, mas ainda não foi atribuída",
-            "Ambos representam valores nulos"
+            "Alunos da Sonserina",
+            "Seguidores de Voldemort",
+            "Criaturas mágicas perigosas"
         ],
         correta: 1
     },
     {
-        pergunta: "O que é o conceito de 'hoisting' em JavaScript?",
+        pergunta: "Qual é a criatura que guarda a entrada para a Câmara Secreta em Hogwarts?",
         respostas: [
-            "Uma técnica de otimização de código",
-            "O processo de mover declarações para o topo do escopo antes da execução",
-            "Um método para evitar vazamentos de memória"
+            "Acromântulas",
+            "Testrálios",
+            "Basilisco"
+        ],
+        correta: 2
+    },
+    {
+        pergunta: "Quem é o professor de Defesa Contra as Artes das Trevas no primeiro livro?",
+        respostas: [
+            "Gilderoy Lockhart",
+            "Quirinus Quirrell",
+            "Dolores Umbridge"
         ],
         correta: 1
+    },
+    {
+        pergunta: "Qual é o animal de estimação de Hagrid?",
+        respostas: [
+            "Gato",
+            "Cão",
+            "Hippogrifo"
+        ],
+        correta: 2
     }
 ];
 
