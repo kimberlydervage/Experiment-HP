@@ -22,7 +22,7 @@ const perguntas = [
         respostas: [
             "Dobby",
             "Winky",
-            "Kreacher"
+            "Monstro"
         ],
         correta: 2
     },
@@ -85,9 +85,108 @@ const perguntas = [
         respostas: [
             "Gato",
             "Cão",
-            "Hippogrifo"
+            "Hipogrifo"
+        ],
+        correta: 1
+    }
+   {
+        pergunta: "Quando Harry Potter nasceu?",
+        respostas: [
+            "1° de julho, 1980",
+            "31 de julho, 1980",
+            "31 de junho, 1980",
+        ],
+        correta: 1
+    }
+ {
+        pergunta: "Qual destes é o Weasley mais velho?",
+        respostas: [
+            "Gui Weasley",
+            "Percy Weasley",
+            "Carlinhos Weasley",
+        ],
+        correta: 0
+    }
+ {
+        pergunta: "Qual Horcrux foi a segunda a ser destruída?",
+        respostas: [
+            "O anel",
+            "O medalhão",
+            "O diadema",
+        ],
+        correta: 0
+    }
+ {
+        pergunta: "Com quem Harry foi ao Baile de Inverno?",
+        respostas: [
+            "Parvati Patil",
+            "Hermione Granger",
+            "Padma Patil",
+        ],
+        correta: 0
+    }
+ {
+        pergunta: "Fred Weasley perdeu qual orelha?",
+        respostas: [
+            "A esquerda",
+            "A direita",
+            "Jorge foi quem perdeu a orelha",
         ],
         correta: 2
+    }
+ {
+        pergunta: "Qual o nome completo de Dumbledore?",
+        respostas: [
+            "Alvo Brian Percival Wulfrico Dumbledore",
+            "Alvo Wulfrico Percival Brian Dumbledore",
+            "Alvo Percival Wulfrico Brian Dumbledore",
+        ],
+        correta: 2
+    }
+ {
+        pergunta: "Qual o patrono de Luna Lovegood?",
+        respostas: [
+            "Uma lebre",
+            "Um gato",
+            "Uma joaninha",
+        ],
+        correta: 0
+    }
+ {
+        pergunta: "Qual destes ingredientes NÃO é usado para fazer uma poção Polissuco?",
+        respostas: [
+            "Hemeróbio",
+            "Descurainia",
+            "Agapanto",
+        ],
+        correta: 2
+    }
+ {
+        pergunta: "Qual é o nome do feitiço que faz com que o alvo escute apenas zumbido?",
+        respostas: [
+            "Abaffilato",
+            "Ablaffato",
+            "Abaffiato",
+        ],
+        correta: 2
+    }
+ {
+        pergunta: "Rita Skeeter se transforma em qual animal para poder espionar as pessoas?",
+        respostas: [
+            "Um besouro",
+            "Uma aranha",
+            "Uma formiga",
+        ],
+        correta: 0
+    }
+ {
+        pergunta: "Qual destas pessoas Belatrix NÃO matou?",
+        respostas: [
+            "Ninfadora Tonks",
+            "Remo Lupin",
+            "Sirius Black",
+        ],
+        correta: 1
     }
 ];
 
