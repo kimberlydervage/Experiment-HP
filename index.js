@@ -187,7 +187,7 @@ const perguntas = [
             "Sirius Black",
         ],
         correta: 1
-    }
+    },
 ];
 
 const quiz = document.querySelector("#quiz")
