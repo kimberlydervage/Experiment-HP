@@ -88,8 +88,8 @@ const perguntas = [
             "Hipogrifo"
         ],
         correta: 1
-    }
-   {
+    },
+    {
         pergunta: "Quando Harry Potter nasceu?",
         respostas: [
             "1° de julho, 1980",
@@ -97,8 +97,8 @@ const perguntas = [
             "31 de junho, 1980",
         ],
         correta: 1
-    }
- {
+    },
+    {
         pergunta: "Qual destes é o Weasley mais velho?",
         respostas: [
             "Gui Weasley",
@@ -106,8 +106,8 @@ const perguntas = [
             "Carlinhos Weasley",
         ],
         correta: 0
-    }
- {
+    },
+    {
         pergunta: "Qual Horcrux foi a segunda a ser destruída?",
         respostas: [
             "O anel",
@@ -115,8 +115,8 @@ const perguntas = [
             "O diadema",
         ],
         correta: 0
-    }
- {
+    },
+    {
         pergunta: "Com quem Harry foi ao Baile de Inverno?",
         respostas: [
             "Parvati Patil",
@@ -124,8 +124,8 @@ const perguntas = [
             "Padma Patil",
         ],
         correta: 0
-    }
- {
+    },
+    {
         pergunta: "Fred Weasley perdeu qual orelha?",
         respostas: [
             "A esquerda",
@@ -133,8 +133,8 @@ const perguntas = [
             "Jorge foi quem perdeu a orelha",
         ],
         correta: 2
-    }
- {
+    },
+    {
         pergunta: "Qual o nome completo de Dumbledore?",
         respostas: [
             "Alvo Brian Percival Wulfrico Dumbledore",
@@ -142,8 +142,8 @@ const perguntas = [
             "Alvo Percival Wulfrico Brian Dumbledore",
         ],
         correta: 2
-    }
- {
+    },
+    {
         pergunta: "Qual o patrono de Luna Lovegood?",
         respostas: [
             "Uma lebre",
@@ -151,8 +151,8 @@ const perguntas = [
             "Uma joaninha",
         ],
         correta: 0
-    }
- {
+    },
+    {
         pergunta: "Qual destes ingredientes NÃO é usado para fazer uma poção Polissuco?",
         respostas: [
             "Hemeróbio",
@@ -160,8 +160,8 @@ const perguntas = [
             "Agapanto",
         ],
         correta: 2
-    }
- {
+    },
+    {
         pergunta: "Qual é o nome do feitiço que faz com que o alvo escute apenas zumbido?",
         respostas: [
             "Abaffilato",
@@ -169,8 +169,8 @@ const perguntas = [
             "Abaffiato",
         ],
         correta: 2
-    }
- {
+    },
+    {
         pergunta: "Rita Skeeter se transforma em qual animal para poder espionar as pessoas?",
         respostas: [
             "Um besouro",
@@ -178,8 +178,8 @@ const perguntas = [
             "Uma formiga",
         ],
         correta: 0
-    }
- {
+    },
+    {
         pergunta: "Qual destas pessoas Belatrix NÃO matou?",
         respostas: [
             "Ninfadora Tonks",
